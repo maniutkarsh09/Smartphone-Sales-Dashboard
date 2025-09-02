@@ -26,7 +26,7 @@ DAX (Data Analysis Expressions) – Custom measures & KPIs
 
 📸 Dashboard Preview
 
-[https://github.com/maniutkarsh09/Smartphone-Sales-Dashboard/blob/main/sales_data_preview.png](https://github.com/maniutkarsh09/Smartphone-Sales-Dashboard/blob/bf2b7a2515d71dcb1c88a46def6fa100152628d3/sales_data_preview.png)
+<img width="1161" height="652" alt="sales_data_preview" src="https://github.com/user-attachments/assets/01b36623-1ab1-4345-9645-d20701a4d46b" />
 
 🎯 Key Insights (Example – replace with your real insights)
 
